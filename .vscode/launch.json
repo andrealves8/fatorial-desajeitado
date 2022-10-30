@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsoleApp1",
+            "request": "launch",
+            "mainClass": "ConsoleApp1",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        },
+        {
+            "type": "java",
+            "name": "Launch Definitivo",
+            "request": "launch",
+            "mainClass": "Definitivo",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "EXPRESSOES.Calculadora",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desafio",
+            "request": "launch",
+            "mainClass": "EXPRESSOES.Desafio",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste5",
+            "request": "launch",
+            "mainClass": "Teste5",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste2",
+            "request": "launch",
+            "mainClass": "teste2",
+            "projectName": "fatorial-desajeitado_df2e0275"
+        }
+    ]
+}
